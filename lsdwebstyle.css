@@ -1,0 +1,106 @@
+
+@font-face {
+    font-family: montserrat;
+    src: url(montserrat-light.ttf);
+}
+
+@font-face {
+    font-family: hind;
+    src: url(hind-light.ttf);
+}
+
+
+/* navigation bar start*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFFFFF;
+    font-family: "hind";
+    height: 100%;    
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #2E2E2E;
+    text-align: center;
+    padding: 10px 59.25px;
+    text-decoration: none;
+}
+
+
+a:hover:not(.active) {
+    background-color: #E5E5E5;
+}
+
+.active {
+background-color: #9EB3E4;
+}
+/*navigation bar end*/
+
+body {
+    margin-center: 0px;
+    background: url(mochaGrunge.png) repeat 0 0;
+}
+
+.center_div {
+    border: 0px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+    width: 69.5%;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 0px;
+    box-shadow: 5px 5px 30px grey;
+}
+
+.header_div {
+    border: 0px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background-color: transparent;
+    text-align: center;
+    padding: 0px;
+}
+
+p {
+    font-family: "hind";
+    font-size: 22px;
+    text-align: center;
+    color: #2E2E2E;
+}
+
+p1 {
+    font-family: "hind";
+    font-size: 22px;
+    text-align: center;
+    color: #6487D2;
+}
+
+p2 {
+    font-family: "hind";
+    font-size: 18px;
+    text-align: center;
+    color: #2E2E2E;
+}
+
+p3 {
+    font-family: "hind";
+    font-size: 32px;
+    text-align: center;
+    color: #2E2E2E;
+}
+
+p4 {
+    font-family: "montserrat";
+    color: #2E2E2E;
+    text-align: center;
+    font-size: 52px;
+    text-shadow: 1px 1px 3px #2C2C2C;
+}
