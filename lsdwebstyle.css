@@ -1,5 +1,11 @@
 html {
     font-weight: 300;
+    overflow: hidden;
+    height: 100%;
+}
+body {
+    overflow: auto;
+    height: 100%;
 }
 /* navigation bar start*/
 ul {
@@ -14,13 +20,14 @@ ul {
 
 li {
     float: left;
+    width: 20%;
 }
 
 li a {
     display: block;
     color: #2E2E2E;
     text-align: center;
-    padding: 10px 59.25px;
+    padding: 10px 0;
     text-decoration: none;
 }
 
