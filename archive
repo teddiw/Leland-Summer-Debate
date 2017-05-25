@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Hind:300|Montserrat:300" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="lsdwebstyle.css">
+</head>
+<div class="header_div">
+     <br>
+     <p4>Leland Summer Debate Program</p4>
+     <br>
+     <br>
+     <br>
+</div>
+<div class="center_div">
+<body>
+<head>
+  <title>Leland Summer Debate Program</title>
+</head>
+
+<ul>
+  <li><a href=index.html>Home</a></li>
+  <li><a href=summerdebatecurriculum.html>Curriculum</a></li>
+  <li><a href=summerdebates1.html>Session 1</a></li>
+  <li><a href=summerdebates2.html>Session 2</a></li>
+  <li><a class="active" href=archive.html>Archive</a></li>
+</ul>
+
+<body>
+<br>
+<p3>2016</p3>
+<br>
+<br>
+<img src="shannaceline.jpg" alt="ShannaCeline" style="width:304px;height:405px;">
+<br>
+<p2>Shanna and Celine prepare cases and blocks for debate rounds taking place the following day.</p2>
+<br>
+<br>
+<br>
+<br>
+
+<img src="tiffany.jpg" alt="Tiffany" style="width:304px;height:447px;">
+<br>
+<p2>Tiffany references her flow as she gives a rebuttal speech.</p2>
+<br>
+<br>
+<br>
+<br>
+
+<img src="rishab.jpg" alt="Rishab" style="width:304px;height:425px;">
+<br>
+<p2>Rishab after his second debate round on Friday</p2>
+<br>
+<br>
+<br>
+<br>
+
+<img src="ethanleo.jpg" alt="Ethan and Leo" style="width:304px;height:405px;">
+<br>
+<p2>Ethan and Leo read background material for the debate topic (Resolved: Adolescents<br>ought to have the right to make autonomous medical choices).</p2>
+<br>
+<br>
+<br>
+<br>
+
+<img src="darren.jpg" alt="Darren" style="width:304px;height:430px;">
+<br>
+<p2>Darren gives a practice rebuttal speech.</p2>
+<br>
+<br>
+<br>
+<br>
+
+<img src="christina.jpg" alt="Christina" style="width:410px;height:308px;">
+<br>
+<p2>Christina references her notes during a practice rebuttal speech.</p2>
+<br>
+<br>
+<br>
+<br>
+
+<img src="tyler.jpg" alt="Tyler" style="width:410px;height:308px;">
+<br>
+<p2>Tyler gives a timed rebuttal speech.</p2>
+<br>
+<br>
+<br>
+<br>
+
+<img src="grace.jpg" alt="Grace" style="width:304px;height:405px;">
+<br>
+<p2>Grace presents a practice rebuttal speech.</p2>
+<br>
+<br>
+<br>
+<br>
+
+<img src="laurenqianyingraceerica.jpg" alt="Lauren, Qianyin, Grace, and Erica" style="width:410px;height:272px;">
+<br>
+<p2>Lauren, Qianyin, Grace, and Erica research for evidence.</p2>
+<br>
+<br>
+<br>
+<br>
+
+<img src="leoteddi.jpg" alt="Leo and Teddi" style="width:410px;height:290px;">
+<br>
+<p2>Leo asks Teddi a question.</p2>
+<br>
+<br>
+<br>
+<br>
+
+<img src="lauren.jpg" alt="Lauren" style="width:304px;height:353px;">
+<br>
+<p2>Lauren delivers a rebuttal speech.</p2>
+<br>
+<br>
+<br>
+<br>
+
+<img src="tyler2.jpg" alt="Tyler" style="width:304px;height:405px;">
+<br>
+<p2>Tyler takes notes on his flow during prep time.</p2>
+<br>
+<br>
+<br>
+<br>
+
+<img src="emily.jpg" alt="Emily" style="width:304px;height:405px;">
+<br>
+<p2>Emily looks over her flows before her next speech.</p2>
+<br>
+<br>
+<br>
+<br>
+
+<img src="chicarly.jpg" alt="Chi and Carly" style="width:410px;height:310px;">
+<br>
+<p2>Chi and Carly listen to the judge's comments after their debate round.</p2>
+
+<br>
+<br>
+<br>
+</body>
+</html> 
+</div>
