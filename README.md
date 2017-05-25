@@ -1,0 +1,2 @@
+# lelandsummerdebate
+LD debate club
