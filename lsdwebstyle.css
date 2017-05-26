@@ -55,7 +55,7 @@ body {
     background-color: #FFFFFF;
     text-align: center;
     padding: 0px;
-    box-shadow: 5px 5px 30px grey;
+    box-shadow: 5px 5px 30px #2C2C2C;
 }
 
 .header_div {
