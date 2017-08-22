@@ -1,1 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Hind:300|Montserrat:300" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="lsdwebstyle.css"></style>
+<title>Leland Summer Debate</title>
+</head>
+<div class="header_div">
+     <br>
+     <p4>Leland Summer Debate</p4>
+     <br>
+     <br>
+     <br>
+</div>
 
+<div class="center_div">
+<body>
+
+<ul>
+  <li><a href=index.html>Home</a></li>
+  <li><a href=curriculum.html>Curriculum</a></li>
+  <li><a href=session1.html>Session 1</a></li>
+  <li><a href=session2.html>Session 2</a></li>
+  <li><a href=archive.html>Archive</a></li>
+  <li><a class="active" href=meet-the-team.html>Meet the Team</a></li>
+</ul>
+
+
+<body>
+
+
+
+</body>
+</html> 
+</div>
