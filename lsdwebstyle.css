@@ -33,11 +33,11 @@ li a {
 
 
 a:hover:not(.active) {
-    text-color: #E5E5E5;
+    color: #E5E5E5;
 }
 
 .active {
-text-color: #9EB3E4;
+color: #9EB3E4;
 }
 /*navigation bar end*/
 
