@@ -31,7 +31,13 @@ li a {
     text-decoration: none;
 }
 
+a:hover:not(.active) {
+     background-color: #E5E5E5;
+     }
 
+     .active {
+     background-color: #9EB3E4;
+     }
 
 /*navigation bar end*/
 
