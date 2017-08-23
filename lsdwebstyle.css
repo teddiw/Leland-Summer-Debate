@@ -32,13 +32,7 @@ li a {
 }
 
 
-a:hover:not(.active) {
-    color: #E5E5E5;
-}
 
-.active {
-color: #9EB3E4;
-}
 /*navigation bar end*/
 
 body {
