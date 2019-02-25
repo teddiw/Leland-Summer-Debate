@@ -3,7 +3,7 @@ LD debate summer camp website
 
 index.html - code for what is displayed when you visit http://lelandsummerdebate.org/
 
-lsdwebstyle.css -
+lsdwebstyle.css - CSS stylesheet (implemented for all pages on the website)
 
 meet-the-team.html - code for what is displayed when you visit http://lelandsummerdebate.org/meet-the-team.html
 
